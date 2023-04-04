@@ -975,8 +975,3 @@ Groovy、Python、Go、NodeJs、Swift、Rust
 《架构即未来》
 
 -------------
-
-扫描二维码，关注作者微信
-
-![](http://www.hollischuang.com/wp-content/uploads/2018/10/%E4%BA%8C%E7%BB%B4%E7%A0%81%E7%BE%8E%E5%8C%96-1.png)
-
